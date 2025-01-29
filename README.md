@@ -1,4 +1,4 @@
-# Atmega16-EFI
+# ATmega16-EFI
 - Hệ thống mô phỏng lại hệ thống phun xăng điện tử (EFI) trong xe ô tô:
 ![image](https://github.com/user-attachments/assets/1cbf81b9-4f83-4d8f-b29e-02cdb08d9d43)
 - Tốc độ quay của động cơ ô tô sẽ được đọc bởi encoder và gửi tín hiệu đến ATmega16 thông qua ngắt ngoài. Từ đó, ATmega16 sẽ tiến hành xử lý và điều khiển tốc độ quay của máy bơm xăng thông qua điều chế xung (PWM) sao cho cung cấp đủ lượng xăng cần thiết cho động cơ hoạt động.
